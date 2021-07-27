@@ -31,7 +31,7 @@ risklessrate=0;
 %mde2={'accuracy','ret','sharperatio'};
 mde2='accuracy';
 % Data snooping selection level (number/percentile)
-toplevel2=[5,10];
+toplevel2=[5,10,15];
 % Selection between number or percentile 'count' for number and 'prc' for
 % percentile
 numprc='count';

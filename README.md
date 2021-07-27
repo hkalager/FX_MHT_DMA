@@ -3,7 +3,7 @@ This code is prepared for the article titled "Trading the foreign exchange marke
 
 You can access the article at https://doi.org/10.1016/j.jempfin.2021.07.006
 
-Please cite the article as "Hassanniakalager, A, Sermpinis, G & Stasinakis, C 2021, 'Trading the Foreign Exchange Market with Technical Analysis and Bayesian Statistics', Journal of Empirical Finance. https://doi.org/10.1016/j.jempfin.2021.07.006"
+Please cite the article as "Hassanniakalager, A, Sermpinis, G & Stasinakis, C 2021, 'Trading the Foreign Exchange Market with Technical Analysis and Bayesian Statistics', Journal of Empirical Finance."
 
 Dataset:
 

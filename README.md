@@ -5,9 +5,14 @@ You can access the article at https://doi.org/10.1016/j.jempfin.2021.07.006
 
 Please cite the article as "Hassanniakalager, A, Sermpinis, G & Stasinakis, C 2021, 'Trading the Foreign Exchange Market with Technical Analysis and Bayesian Statistics', Journal of Empirical Finance."
 
+Running the codes:
+
+The main procedure is called "Step1_MainRunner.m". You can amend/add parameters and/or hyperparameters based on your needs. All callable functions are uploaded as well.
+
+
 Dataset:
 
-The data for MSCI indices are collected from Bloomberg Terminal. All indices are denoted in US Dollar. You are not allowed to access/use the data files without a valid license for Bloomberg.
+The data for currency exchange rates are from an anonymous FX brokerage in csv format like "EURUSD.csv". Each csv file containts date, time(00:00), open, high, low, closing prices and trading volumes. You may collect the same data from Bloomberg Terminal, Thomson Reuters, or any market data source. 
 
 Third-party scripts:
 

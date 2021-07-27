@@ -35,7 +35,7 @@
 %==========================================================================
 function [y_t_DMA,y_t_BEST,y_t]=DMA(Xser,Tser,outpoint)
 % Reset random number generator to a random value
-rng('shuffle');
+rng(0);
 % Set some variables to be used globally as input in functions
 global K index lbls prob_update alpha lambda%#ok<*NUSED>
 

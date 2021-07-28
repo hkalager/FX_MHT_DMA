@@ -9,6 +9,9 @@ Running the codes:
 
 The main procedure is called "Step1_MainRunner.m". You can amend/add parameters and/or hyperparameters based on your needs. All callable functions are uploaded as well.
 
+Warning:
+
+These codes use a random seed to generate the results. Despite all efforts to stabilise the processes, getting the same results as in the paper is not guaranteed. 
 
 Dataset:
 
@@ -27,6 +30,5 @@ IV) The scripts performing the Dynamic Model Averaging of Koop and Korobilis (20
 All third-party codes are provided as a mirror to the original repositories. 
 
 Further information:
-
 
 All scripts provided here are as is. Subject to change at all time.

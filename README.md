@@ -11,7 +11,8 @@ The main procedure is called "Step1_MainRunner.m". You can amend/add parameters 
 
 Warning:
 
-These codes use a random seed to generate the results. Despite all efforts to stabilise the processes, getting the same results as in the paper is not guaranteed. 
+- Running these codes can take up to 1 hour per asset(e.g. EUR/USD) per study period (e.g. out of sample year 2015).
+- These codes use a random seed to generate the results. Despite all efforts to stabilise the processes, getting the same results as in the paper is not guaranteed. 
 
 Dataset:
 
